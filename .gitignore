@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Docker
+*.log
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SQLite database
+*.sqlite
+*.db
